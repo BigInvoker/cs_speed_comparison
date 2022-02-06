@@ -1,0 +1,16 @@
+V:\User\Desktop\cs_speed_comparison\cs_speed_comparison\bin\Debug\net5.0\cs_speed_comparison.exe
+V:\User\Desktop\cs_speed_comparison\cs_speed_comparison\bin\Debug\net5.0\cs_speed_comparison.deps.json
+V:\User\Desktop\cs_speed_comparison\cs_speed_comparison\bin\Debug\net5.0\cs_speed_comparison.runtimeconfig.json
+V:\User\Desktop\cs_speed_comparison\cs_speed_comparison\bin\Debug\net5.0\cs_speed_comparison.runtimeconfig.dev.json
+V:\User\Desktop\cs_speed_comparison\cs_speed_comparison\bin\Debug\net5.0\cs_speed_comparison.dll
+V:\User\Desktop\cs_speed_comparison\cs_speed_comparison\bin\Debug\net5.0\ref\cs_speed_comparison.dll
+V:\User\Desktop\cs_speed_comparison\cs_speed_comparison\bin\Debug\net5.0\cs_speed_comparison.pdb
+V:\User\Desktop\cs_speed_comparison\cs_speed_comparison\obj\Debug\net5.0\cs_speed_comparison.csproj.AssemblyReference.cache
+V:\User\Desktop\cs_speed_comparison\cs_speed_comparison\obj\Debug\net5.0\cs_speed_comparison.GeneratedMSBuildEditorConfig.editorconfig
+V:\User\Desktop\cs_speed_comparison\cs_speed_comparison\obj\Debug\net5.0\cs_speed_comparison.AssemblyInfoInputs.cache
+V:\User\Desktop\cs_speed_comparison\cs_speed_comparison\obj\Debug\net5.0\cs_speed_comparison.AssemblyInfo.cs
+V:\User\Desktop\cs_speed_comparison\cs_speed_comparison\obj\Debug\net5.0\cs_speed_comparison.csproj.CoreCompileInputs.cache
+V:\User\Desktop\cs_speed_comparison\cs_speed_comparison\obj\Debug\net5.0\cs_speed_comparison.dll
+V:\User\Desktop\cs_speed_comparison\cs_speed_comparison\obj\Debug\net5.0\ref\cs_speed_comparison.dll
+V:\User\Desktop\cs_speed_comparison\cs_speed_comparison\obj\Debug\net5.0\cs_speed_comparison.pdb
+V:\User\Desktop\cs_speed_comparison\cs_speed_comparison\obj\Debug\net5.0\cs_speed_comparison.genruntimeconfig.cache
